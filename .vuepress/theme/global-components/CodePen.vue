@@ -20,7 +20,7 @@ export default {
         id: { required: true },
         title: { required: true },
         height: { default: '400' },
-        author: { default: 'lorisleiva' }
+        author: { default: 'vuehow' }
     }
 }
 </script>

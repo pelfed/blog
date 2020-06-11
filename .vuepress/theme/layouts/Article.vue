@@ -23,7 +23,7 @@
         <div class="bg-white py-16">
             <div class="container">
                 <Disqus 
-                    shortname="loris-leiva" 
+                    shortname="vue-how" 
                     :title="$page.title"
                     :identifier="disqusIdentifier" 
                     :url="disqusUrl"

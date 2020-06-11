@@ -1,7 +1,7 @@
 <template>
     <form 
         method="post" 
-        action="https://lorisleiva.us17.list-manage.com/subscribe/post?u=75fd667401723eb751037f151&amp;id=544f57c6d7"  
+        action="https://pelfed.us17.list-manage.com/subscribe/post?u=75fd667401723eb751037f151&amp;id=544f57c6d7"  
         name="mc-embedded-subscribe-form"
         id="mc-embedded-subscribe-form" 
         target="_blank" 

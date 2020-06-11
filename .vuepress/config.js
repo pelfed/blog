@@ -3,14 +3,14 @@ module.exports = {
 	themeConfig: {
 		domain: 'https://vue.how',
 		repo: 'https://github.com/lorisleiva/blog',
-		nav: [ '/', '/tag/', '/articles/', '/cv/' ],
+		nav: [ '/', '/tag/', '/articles/' ],
 		author: {
 			name: 'Phil Porter'
 		},
 		articlesPerPage: 10,
 		minimumFeaturedArticles: 10,
 		featuredArticles: [
-			'/Multi-Page-Apps-using-nuxt/',
+			'/multi-page-apps-using-vue-nuxt-node-express/',
 		],
 	},
 	head: [

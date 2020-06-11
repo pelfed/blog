@@ -1,9 +1,9 @@
 ---
-permalink: introducing-javel
-image: /covers/introducing-javel.png
-description: Wrap your plain JavaScript objects into customizable Laravel-like models.
-tags: ['Vue', 'Laravel', 'Open Source']
-date: 2019-02-11T12:34:00Z
+permalink: multi-page-apps-using-vue-nuxt-node-express
+image: /covers/multi-page-apps-using-vue-nuxt-node-express.png
+description: multi-page-apps-using-vue-nuxt-node-express.
+tags: ['Vue', 'Nuxt', 'Express', 'MPA', 'Multiple Page apps']
+date: 2020-06-06T12:34:00Z
 ---
 # Introducing Javel
 When passing information from Laravel (or another framework) to your JavaScript, it’s easy to forget that you do not have to work with plain JavaScript objects. 
