@@ -1,15 +1,15 @@
 module.exports = {
-	title: 'Loris Leiva',
+	title: 'Vue How',
 	themeConfig: {
-		domain: 'https://lorisleiva.com',
+		domain: 'https://vue.how',
 		repo: 'https://github.com/lorisleiva/blog',
 		nav: [ '/', '/tag/', '/articles/', '/cv/' ],
 		author: {
-			name: 'Loris Leiva',
-			twitter: '@lorismatic',
+			name: 'Phil Porter',
+			twitter: '@',
 		},
-		articlesPerPage: 11,
-		minimumFeaturedArticles: 11,
+		articlesPerPage: 10,
+		minimumFeaturedArticles: 10,
 		featuredArticles: [
 			'/why-i-wrote-laravel-actions/',
 			'/laravel-deployment-using-gitlab-pipelines/',
