@@ -5,14 +5,12 @@ module.exports = {
 		repo: 'https://github.com/lorisleiva/blog',
 		nav: [ '/', '/tag/', '/articles/', '/cv/' ],
 		author: {
-			name: 'Phil Porter',
-			twitter: '@',
+			name: 'Phil Porter'
 		},
 		articlesPerPage: 10,
 		minimumFeaturedArticles: 10,
 		featuredArticles: [
-			'/why-i-wrote-laravel-actions/',
-			'/laravel-deployment-using-gitlab-pipelines/',
+			'/Multi-Page-Apps-using-nuxt/',
 		],
 	},
 	head: [

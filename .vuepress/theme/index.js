@@ -22,10 +22,10 @@ module.exports = {
                 lengthPerPage: 11,
             },
             sitemap: {
-                hostname: 'https://lorisleiva.com',
+                hostname: 'https://vue.how',
             },
             feed: {
-                canonical_base: 'https://lorisleiva.com',
+                canonical_base: 'https://vue.how',
             },
         }],
         'seo',
